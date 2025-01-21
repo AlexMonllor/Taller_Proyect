@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|c:\\users\\al037\\onedrive - conselleria d\u0027educaci\u00F3\\desarrollo de interfaces\\c#\\exameninterfaces\\form_afegir_cotxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|solutionrelative:form_afegir_cotxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|c:\\users\\al037\\onedrive - conselleria d\u0027educaci\u00F3\\desarrollo de interfaces\\c#\\exameninterfaces\\form afegir client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|solutionrelative:form afegir client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|c:\\users\\al037\\onedrive - conselleria d\u0027educaci\u00F3\\desarrollo de interfaces\\c#\\exameninterfaces\\mostrar_dades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|solutionrelative:mostrar_dades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\mostrar_dades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|solutionrelative:mostrar_dades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|c:\\users\\al037\\onedrive - conselleria d\u0027educaci\u00F3\\desarrollo de interfaces\\c#\\exameninterfaces\\form_afegir_cotxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|solutionrelative:form_afegir_cotxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|c:\\users\\al037\\onedrive - conselleria d\u0027educaci\u00F3\\desarrollo de interfaces\\c#\\exameninterfaces\\form afegir client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|solutionrelative:form afegir client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8FEE5187-45A4-408C-B342-A902951BC00E}|ExamenInterfaces.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_afegir_cotxe.cs",
+              "DocumentMoniker": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Form_afegir_cotxe.cs",
+              "RelativeDocumentMoniker": "Form_afegir_cotxe.cs",
+              "ToolTip": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Form_afegir_cotxe.cs",
+              "RelativeToolTip": "Form_afegir_cotxe.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:40:38.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form afegir client.cs",
+              "DocumentMoniker": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Form afegir client.cs",
+              "RelativeDocumentMoniker": "Form afegir client.cs",
+              "ToolTip": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Form afegir client.cs",
+              "RelativeToolTip": "Form afegir client.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:40:31.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form afegir client.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Form afegir client.cs",
+              "RelativeDocumentMoniker": "Form afegir client.cs",
+              "ToolTip": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Form afegir client.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form afegir client.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:40:27.226Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_afegir_cotxe.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Form_afegir_cotxe.cs",
+              "RelativeDocumentMoniker": "Form_afegir_cotxe.cs",
+              "ToolTip": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Form_afegir_cotxe.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form_afegir_cotxe.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:40:25.029Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mostrar_dades.cs",
+              "DocumentMoniker": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Mostrar_dades.cs",
+              "RelativeDocumentMoniker": "Mostrar_dades.cs",
+              "ToolTip": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Mostrar_dades.cs",
+              "RelativeToolTip": "Mostrar_dades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:57:05.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mostrar_dades.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Mostrar_dades.cs",
+              "RelativeDocumentMoniker": "Mostrar_dades.cs",
+              "ToolTip": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Mostrar_dades.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mostrar_dades.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:17:46.815Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\al037\\OneDrive - Conselleria d\u0027Educaci\u00F3\\Desarrollo de interfaces\\C#\\ExamenInterfaces\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:56:45.187Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
